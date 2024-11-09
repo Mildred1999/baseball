@@ -10,3 +10,6 @@ A web application to explore baseball statistics from 1936 to 2017. The site pro
 ## 🔧 Tech Stack
 - **Languages**: HTML, CSS, PHP
 - **Database**: MySQL 
+
+## 🌐 Live Demo
+Check out the website: [Baseball Hall Of Fame](https://nwachukwuinnocentm.etowndb.com/)
