@@ -1,0 +1,119 @@
+a.navbar,
+a.navbar:visited,
+a.navbar:active {
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+    text-align: center;
+}
+
+a.navbar:hover {
+    text-decoration: underline;
+    color:black;
+}
+
+table.navbar{
+    margin: 0;
+    padding: 0;
+    background-color:#8b0000;
+    width:100%;
+    text-align: center;
+}
+td.navbar{
+    
+    text-align: center;
+}
+button.navbar {
+    /*position: fixed;
+    margin: auto;
+    left: -850;
+    right: 0;
+    top: -450;
+    bottom: 0;*/
+    float:left;
+    width: 100px;
+    height: 30px;
+    color:white;
+    background-color: crimson;
+    margin-left: 5px;
+    margin-top: 5px;
+    text-align: center;
+
+  }
+  
+
+
+.statstable table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+tr:nth-child(even) {
+    background-color: #F2F2F2;
+   }
+.center{
+    text-align: center; 
+}
+html,body{
+    width: 100%;
+    min-height: 100%;
+    margin-bottom:0;
+    margin-left:0;
+    margin-top:0;
+    margin-right:0;
+    padding: 0; /*space from content and border*/
+
+    overflow:hidden;
+    display:block;
+    box-sizing: border-box;
+    overflow: auto;
+    background-color:whitesmoke;
+    /* background-image: url("http://teacher.etowndb.com/baseball/images/bg.png"); */
+    /* background-image: url("../images/bg1.png");  */
+    /* background-repeat: repeat; */
+    text-align: center;
+
+    
+    
+    
+}
+
+h2{
+    color:rgb(1, 62, 24)
+}
+a{
+    color: rgb(20, 99, 20);
+}
+a.hover{
+    color:black;
+}
+a.visited{
+    color:darkolivegreen;
+}
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #f7f3e9; 
+}
+th {
+    background-color: #8b0000; 
+    color: white;
+    padding: 10px;
+    font-size: 1.1em;
+}
+/* tr:nth-child(even) {
+    background-color: #f0e5d8; 
+}
+tr:nth-child(odd) {
+    background-color: #fffaf3; 
+} */
+
+/* Cell padding and border */
+th, td {
+    padding: 15px;
+    text-align: left;
+    border: 1px solid black; /* Light gray border */
+}
+
+
+
